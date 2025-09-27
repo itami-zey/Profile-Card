@@ -42,7 +42,7 @@ section {
     background-color:var(--color4);
     border-radius:15px;
     margin:auto;
-    min-width:90vw;
+    maz-width:90vw;
 }
 h2 {
     font-size:1.2rem;
@@ -125,7 +125,7 @@ hr {
     body {
         background-image:url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
         background-repeat:no-repeat, no-repeat;
-        background-position:-45% 260%, 155% -180%;
+        background-position:-30% 240%, 135% -160%;
         background-size:auto;
     }
     section {
@@ -134,4 +134,5 @@ hr {
     .background {
         width:100%;
     }
+
 }
