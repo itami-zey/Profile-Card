@@ -42,7 +42,7 @@ section {
     background-color:var(--color4);
     border-radius:15px;
     margin:auto;
-    maz-width:90vw;
+    max-width:90vw;
 }
 h2 {
     font-size:1.2rem;
@@ -136,3 +136,4 @@ hr {
     }
 
 }
+
